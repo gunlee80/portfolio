@@ -6,7 +6,7 @@
  |----|----|
  |10:00~10:50|First Class|
  |11:00~11:50|Second Class|
- |12:00~13:00|<span style="color:red"> Breaktime </span>|
+ |12:00~13:00|<span style="color:red"> Break time </span>|
  
  
  
